@@ -1,0 +1,2 @@
+-- call js function with button
+<button onclick="myFirstFunction()">Click me</button>
